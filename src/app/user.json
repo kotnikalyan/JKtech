@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "first_name": "admin",
+            "last_name": "Lockett",
+            "email": "admin@gmail.com",
+            "password": "Admin",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "first_name": "Giselbert",
+            "last_name": "Manach",
+            "email": "admin2@gmail.com",
+            "password": "Admin2",
+            "role": "user"
+        },
+        {
+            "id": 3,
+            "first_name": "Iolande",
+            "last_name": "Dmiterko",
+            "email": "idmiterko2@gizmodo.com",
+            "password": "zcnzngmyBMYEB5{",
+            "role": "admin"
+        },
+        {
+            "id": 4,
+            "first_name": "Amity",
+            "last_name": "Charopen",
+            "email": "acharopen3@altervista.org",
+            "password": "qnolqktbSGVBC1~",
+            "role": "Cerulean Pharma Inc."
+        },
+        {
+            "id": 5,
+            "first_name": "Chiquia",
+            "last_name": "Hebbard",
+            "email": "chebbard4@state.gov",
+            "password": "gksnpwjqXQFRE0?l",
+            "role": "Frontline Ltd."
+        },
+        {
+            "id": 6,
+            "first_name": "Nikolas",
+            "last_name": "Tilbury",
+            "email": "ntilbury5@printfriendly.com",
+            "password": "ucnnrcurGDIIX8}",
+            "role": "admin"
+        },
+        {
+            "id": 7,
+            "first_name": "Eolande",
+            "last_name": "MacRonald",
+            "email": "emacronald6@ustream.tv",
+            "password": "uyngcjkiWQNIU7,",
+            "role": "PDF Solutions, Inc."
+        },
+        {
+            "id": 8,
+            "first_name": "Lettie",
+            "last_name": "Basden",
+            "email": "lbasden7@slashdot.org",
+            "password": "vuaoejiwDVRGB1!",
+            "role": "Pampa Energia S.A."
+        },
+        {
+            "id": 9,
+            "first_name": "Enrica",
+            "last_name": "Dawidowitz",
+            "email": "edawidowitz8@friendfeed.com",
+            "password": "fgbigyofANJWD3_",
+            "role": "admin"
+        },
+        {
+            "id": 10,
+            "first_name": "Benedicto",
+            "last_name": "Kembley",
+            "email": "bkembley9@cyberchimps.com",
+            "password": "vxwurrypYZLYA0(",
+            "role": "Maiden Holdings, Ltd."
+        }
+    ]
+}

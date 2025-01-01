@@ -1,0 +1,43 @@
+<mat-toolbar color="primary">
+    <span class="fill-remaining-space">
+      <button mat-icon-button [matMenuTriggerFor]="menu" #menuTrigger="matMenuTrigger"
+        (mouseover)="menuTrigger.openMenu()">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <mat-menu #menu="matMenu" [overlapTrigger]="false">
+        <span (mouseleave)="menuTrigger.closeMenu()">
+
+          <button mat-menu-item>
+            <mat-icon>home</mat-icon>
+            <span>Home</span>
+          </button>
+          <button *ngIf="userData.role=='admin'" mat-menu-item routerLink="./users">
+            <mat-icon>people_outline</mat-icon>
+            <span>User Management</span>
+          </button>
+          <button mat-menu-item routerLink="./document">
+            <mat-icon>upload File</mat-icon>
+            <span>Document Upload and Management</span>
+          </button>
+          <button mat-menu-item routerLink="./interfase" routerLinkActive='active'>
+            <mat-icon>info</mat-icon>
+            <span>Ingestion Management:</span>
+          </button> 
+          <button mat-menu-item routerLink="./questions">
+            <mat-icon>help</mat-icon>
+            <span>Q&A Interface:</span>
+          </button>
+          <button mat-menu-item (click)="Logout()">
+            <mat-icon>exit_to_app</mat-icon>
+            <span>Logout</span>
+          </button>
+        </span>
+      </mat-menu>
+    </span>
+    <span class="fill-remaining-space">RAG-based</span>
+    <span><mat-icon #tooltip="matTooltip"
+      matTooltip="{{userData.first_name}}">people_outline</mat-icon></span>
+  </mat-toolbar>
+  <mat-sidenav-container>
+   <router-outlet></router-outlet>
+  </mat-sidenav-container>

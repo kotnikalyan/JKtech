@@ -1,0 +1,1319 @@
+{
+    "data": [
+        {
+            "questions": "Often",
+            "answers": "Release Thoracic Vertebra, Percutaneous Approach",
+            "document": "VMM"
+        },
+        {
+            "questions": "Once",
+            "answers": "Dilation of Left Renal Artery with Drug-eluting Intraluminal Device, Open Approach",
+            "document": "Cloud Computing"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Integumentary Integrity Assessment of Integumentary System - Lower Back / Lower Extremity",
+            "document": "Awesomeness"
+        },
+        {
+            "questions": "Often",
+            "answers": "Restriction of Left Colic Artery, Percutaneous Endoscopic Approach",
+            "document": "Retail Sales"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Insertion of Radioactive Element into Right Axilla, Percutaneous Approach",
+            "document": "Torts"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Plain Radiography of Left Lower Extremity Veins using High Osmolar Contrast",
+            "document": "UML"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Supplement Nasopharynx with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",
+            "document": "FTP software"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Extirpation of Matter from Right Vertebral Vein, Percutaneous Approach",
+            "document": "Instructional Design"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Dilation of Right Vertebral Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach",
+            "document": "Urban Planning"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Supplement Left Metatarsal-Tarsal Joint with Synthetic Substitute, Percutaneous Approach",
+            "document": "Shell Scripting"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Plain Radiography of Bilateral Lacrimal Ducts using Low Osmolar Contrast",
+            "document": "Usability Engineering"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Replacement of Left Ulnar Artery with Nonautologous Tissue Substitute, Open Approach",
+            "document": "CPL"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Collection of Blood from Indwelling Device in Circulatory System",
+            "document": "Early Childhood Education"
+        },
+        {
+            "questions": "Never",
+            "answers": "Removal of Intraluminal Device from Ureter, Percutaneous Approach",
+            "document": "SRX"
+        },
+        {
+            "questions": "Once",
+            "answers": "Dilation of Gastric Artery, Bifurcation, Open Approach",
+            "document": "IFRS"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Restriction of Jejunum with Intraluminal Device, Percutaneous Endoscopic Approach",
+            "document": "Voice Over"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Bypass Right Subclavian Artery to Left Upper Arm Artery with Synthetic Substitute, Open Approach",
+            "document": "Zoology"
+        },
+        {
+            "questions": "Once",
+            "answers": "Reposition Sternum, Percutaneous Approach",
+            "document": "Art Education"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Excision of Accessory Pancreatic Duct, Percutaneous Endoscopic Approach",
+            "document": "OCLC Connexion"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Destruction of Left Greater Saphenous Vein, Percutaneous Approach",
+            "document": "VDSL"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Reposition Right Glenoid Cavity with Internal Fixation Device, Percutaneous Approach",
+            "document": "Snow"
+        },
+        {
+            "questions": "Once",
+            "answers": "Drainage of Left Epididymis, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "Fashion"
+        },
+        {
+            "questions": "Often",
+            "answers": "Ultrasonography of Bilateral Eyes",
+            "document": "VMware"
+        },
+        {
+            "questions": "Once",
+            "answers": "Educational Counseling",
+            "document": "VRU"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Bypass Portal Vein to Left Renal Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "Ecology"
+        },
+        {
+            "questions": "Once",
+            "answers": "Removal of Internal Fixation Device from Right Tarsal, Open Approach",
+            "document": "US GAAP"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Systemic Nuclear Medicine Therapy of Multiple Anatomical Regions using Other Radionuclide",
+            "document": "Economics"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Right Lower Arm, Percutaneous Approach",
+            "document": "Jitter"
+        },
+        {
+            "questions": "Never",
+            "answers": "Detachment at Left Hindquarter, Open Approach",
+            "document": "CBEST"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Bypass Left Axillary Artery to Left Extracranial Artery with Autologous Arterial Tissue, Open Approach",
+            "document": "Xpediter"
+        },
+        {
+            "questions": "Often",
+            "answers": "Excision of Pons, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "iReport"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Release Mesentery, Open Approach",
+            "document": "Botany"
+        },
+        {
+            "questions": "Once",
+            "answers": "Removal of Autologous Tissue Substitute from Left Glenoid Cavity, Open Approach",
+            "document": "Dunn &amp; Bradstreet"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Extirpation of Matter from Left Ovary, Open Approach",
+            "document": "PPBES"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Fluoroscopy of Pharynx and Epiglottis",
+            "document": "Lines Of Credit"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Dilation of Right Lacrimal Duct, Via Natural or Artificial Opening Endoscopic",
+            "document": "BSF"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Excision of Left Peroneal Artery, Percutaneous Endoscopic Approach",
+            "document": "CTQ"
+        },
+        {
+            "questions": "Once",
+            "answers": "Division of Left Hand Muscle, Percutaneous Endoscopic Approach",
+            "document": "Outside Sales"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Dilation of Hepatic Artery with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach",
+            "document": "Ghostwriting"
+        },
+        {
+            "questions": "Often",
+            "answers": "Transfer Left Lower Leg Muscle, Open Approach",
+            "document": "Atmel AVR"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Revision of Infusion Device in Epididymis and Spermatic Cord, Via Natural or Artificial Opening",
+            "document": "XP Professional"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Detachment at Right 3rd Toe, Low, Open Approach",
+            "document": "OAB"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Alteration of Abdominal Wall, Open Approach",
+            "document": "Americans with Disabilities Act"
+        },
+        {
+            "questions": "Never",
+            "answers": "Revision of Synthetic Substitute in Right Hip Joint, Acetabular Surface, Open Approach",
+            "document": "Watercolor"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Drainage of Right Common Iliac Vein, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "Tcpdump"
+        },
+        {
+            "questions": "Often",
+            "answers": "Removal of Infusion Device from Upper Jaw, External Approach",
+            "document": "System Testing"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Extraction of Facial Nerve, Percutaneous Endoscopic Approach",
+            "document": "KML"
+        },
+        {
+            "questions": "Once",
+            "answers": "Reposition Left Parotid Duct, Percutaneous Approach",
+            "document": "OAuth"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Dilation of Right Anterior Tibial Artery, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach",
+            "document": "Nursing Management"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Revision of Internal Fixation Device in Cervicothoracic Vertebral Joint, External Approach",
+            "document": "Graphics"
+        },
+        {
+            "questions": "Often",
+            "answers": "Fluoroscopy of Right Tracheobronchial Tree using Other Contrast",
+            "document": "Urdu"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Restriction of Right Brachial Vein with Intraluminal Device, Open Approach",
+            "document": "IASO"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Restriction of Intracranial Artery with Intraluminal Device, Percutaneous Endoscopic Approach",
+            "document": "cGMP practices"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Magnetic Resonance Imaging (MRI) of Upper Extremity Connective Tissue using Other Contrast, Unenhanced and Enhanced",
+            "document": "Japanese"
+        },
+        {
+            "questions": "Often",
+            "answers": "Destruction of Left Trunk Bursa and Ligament, Open Approach",
+            "document": "Personal Development"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Restriction of Left Common Iliac Vein with Intraluminal Device, Percutaneous Endoscopic Approach",
+            "document": "Aquisition"
+        },
+        {
+            "questions": "Often",
+            "answers": "Drainage of Left Seminal Vesicle, Percutaneous Endoscopic Approach",
+            "document": "Know-how"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Fusion of Thoracic Vertebral Joint with Autologous Tissue Substitute, Anterior Approach, Anterior Column, Percutaneous Approach",
+            "document": "Dreamweaver"
+        },
+        {
+            "questions": "Often",
+            "answers": "Destruction of Right Fibula, Open Approach",
+            "document": "Jenark"
+        },
+        {
+            "questions": "Often",
+            "answers": "Revision of Infusion Device in Peritoneal Cavity, Percutaneous Endoscopic Approach",
+            "document": "SBEM"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Release Left Lacrimal Duct, Percutaneous Approach",
+            "document": "RF Test"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Beam Radiation of Adrenal Glands using Photons 1 - 10 MeV",
+            "document": "SGML"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Sensory Aids Assessment using Tympanometer",
+            "document": "American Literature"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Supplement Right Ventricle with Autologous Tissue Substitute, Percutaneous Approach",
+            "document": "End User Training"
+        },
+        {
+            "questions": "Never",
+            "answers": "Removal of Stimulator Lead from Lower Muscle, External Approach",
+            "document": "Fly Tying"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Occlusion of Right Femoral Artery with Intraluminal Device, Open Approach",
+            "document": "Hospitality Industry"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Left Metatarsal-Phalangeal Joint with Drainage Device, Percutaneous Approach",
+            "document": "BPH"
+        },
+        {
+            "questions": "Never",
+            "answers": "Removal of Spacer from Left Metatarsal-Tarsal Joint, Open Approach",
+            "document": "Jets"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Replacement of Coccygeal Joint with Synthetic Substitute, Open Approach",
+            "document": "PTO"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Insertion of Tissue Expander into Scalp Subcutaneous Tissue and Fascia, Percutaneous Approach",
+            "document": "Intergovernmental Affairs"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Drainage of Left Wrist Bursa and Ligament with Drainage Device, Percutaneous Approach",
+            "document": "IT Project &amp; Program Management"
+        },
+        {
+            "questions": "Never",
+            "answers": "Replacement of Left Vertebral Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "Commercial Photography"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Replacement of Nasopharynx with Synthetic Substitute, Open Approach",
+            "document": "Jury Trials"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Insertion of Infusion Device into Left Thyroid Artery, Percutaneous Approach",
+            "document": "Electricians"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Excision of Duodenum, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "Interest Rate Derivatives"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Insertion of Intraluminal Device into Jejunum, Via Natural or Artificial Opening",
+            "document": "Americans with Disabilities Act"
+        },
+        {
+            "questions": "Once",
+            "answers": "Removal of Synthetic Substitute from Right Hip Joint, Percutaneous Endoscopic Approach",
+            "document": "iOS Development"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Drainage of Left Lobe Liver with Drainage Device, Open Approach",
+            "document": "PPC"
+        },
+        {
+            "questions": "Often",
+            "answers": "Introduction of Other Thrombolytic into Central Artery, Open Approach",
+            "document": "Glazing"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Magnetic Resonance Imaging (MRI) of Bilateral Submandibular Glands using Other Contrast, Unenhanced and Enhanced",
+            "document": "GDS systems"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Insertion of Internal Fixation Device into Right Sacroiliac Joint, Percutaneous Approach",
+            "document": "Fund Administration"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Extirpation of Matter from Right Trunk Bursa and Ligament, Percutaneous Approach",
+            "document": "D3.js"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Reposition Right Occipital Bone, Percutaneous Endoscopic Approach",
+            "document": "Character Animation"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Destruction of Right Face Vein, Percutaneous Approach",
+            "document": "MFR"
+        },
+        {
+            "questions": "Once",
+            "answers": "Removal of Traction Apparatus on Right Upper Extremity",
+            "document": "Protein Expression"
+        },
+        {
+            "questions": "Often",
+            "answers": "Bypass Right External Iliac Artery to Bilateral Internal Iliac Arteries with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "Gospel"
+        },
+        {
+            "questions": "Never",
+            "answers": "Removal of Synthetic Substitute from Left Metacarpocarpal Joint, Open Approach",
+            "document": "RTI"
+        },
+        {
+            "questions": "Often",
+            "answers": "Bypass Esophagus to Ileum with Autologous Tissue Substitute, Open Approach",
+            "document": "Overhaul"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Revision of Autologous Tissue Substitute in Vulva, External Approach",
+            "document": "Psychological Assessment"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Alteration of Lower Jaw with Synthetic Substitute, Percutaneous Approach",
+            "document": "Applicant Tracking Systems"
+        },
+        {
+            "questions": "Never",
+            "answers": "Revision of Infusion Device in Right Metatarsal-Tarsal Joint, Open Approach",
+            "document": "Jin Shin Jyutsu"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Supplement Right External Carotid Artery with Synthetic Substitute, Percutaneous Approach",
+            "document": "HSQLDB"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Drainage of Head and Neck Tendon with Drainage Device, Percutaneous Endoscopic Approach",
+            "document": "Clinical Development"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Bypass Right Axillary Artery to Lower Arm Vein with Synthetic Substitute, Open Approach",
+            "document": "ISM"
+        },
+        {
+            "questions": "Often",
+            "answers": "Replacement of Left Shoulder Joint with Nonautologous Tissue Substitute, Open Approach",
+            "document": "Yacht Racing"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Supplement of Right Upper Arm Subcutaneous Tissue and Fascia with Synthetic Substitute, Open Approach",
+            "document": "Customer Acquisition"
+        },
+        {
+            "questions": "Once",
+            "answers": "Removal of Internal Fixation Device from Right Scapula, External Approach",
+            "document": "IHE"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Replacement of Right Brachial Artery with Nonautologous Tissue Substitute, Open Approach",
+            "document": "Oil &amp; Gas Law"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Inspection of Right Tarsal Joint, Percutaneous Approach",
+            "document": "KCS"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Transfusion of Autologous Globulin into Peripheral Artery, Open Approach",
+            "document": "Slate"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Bypass Pulmonary Trunk from Carotid with Autologous Venous Tissue, Open Approach",
+            "document": "Workers Compensation"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach",
+            "document": "Quantity Surveying"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Insertion of Multiple Channel Cochlear Prosthesis into Right Inner Ear, Percutaneous Endoscopic Approach",
+            "document": "DBs"
+        },
+        {
+            "questions": "Never",
+            "answers": "Release Right Finger Phalanx, Percutaneous Approach",
+            "document": "PMR"
+        },
+        {
+            "questions": "Once",
+            "answers": "Destruction of Left Spermatic Cord, Percutaneous Approach",
+            "document": "Abstraction"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Left Internal Iliac Artery with Drainage Device, Percutaneous Endoscopic Approach",
+            "document": "New Product Ideas"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Dilation of Hepatic Vein, Percutaneous Approach",
+            "document": "LLBLGen Pro"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Ultrasonography of Intracranial Arteries",
+            "document": "HR Metrics"
+        },
+        {
+            "questions": "Never",
+            "answers": "Dilation of Right Basilic Vein with Intraluminal Device, Open Approach",
+            "document": "Title Searches"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Reposition Left Spermatic Cord, Open Approach",
+            "document": "JCO"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Extirpation of Matter from Nose, External Approach",
+            "document": "Nightlife"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Extirpation of Matter from Face Artery, Bifurcation, Open Approach",
+            "document": "Omnis"
+        },
+        {
+            "questions": "Once",
+            "answers": "Drainage of Basal Ganglia, Percutaneous Endoscopic Approach",
+            "document": "CNN Newsource"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Supplement Left Shoulder Muscle with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "Operational Oversight"
+        },
+        {
+            "questions": "Once",
+            "answers": "Extirpation of Matter from Right Foot Artery, Bifurcation, Percutaneous Approach",
+            "document": "Sports Play-by-play"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Bypass Ileum to Ascending Colon with Nonautologous Tissue Substitute, Open Approach",
+            "document": "Organization Skills"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Supplement Left Hip Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+            "document": "GTK+"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Occlusion of Right Neck Lymphatic with Extraluminal Device, Percutaneous Approach",
+            "document": "Trend Analysis"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Resection of Left Ethmoid Sinus, Open Approach",
+            "document": "TQC"
+        },
+        {
+            "questions": "Often",
+            "answers": "Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Open Approach",
+            "document": "SD"
+        },
+        {
+            "questions": "Once",
+            "answers": "Excision of Right Trunk Bursa and Ligament, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "Portuguese"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Revision of Internal Fixation Device in Right Hip Joint, Open Approach",
+            "document": "OEM negotiations"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Drainage of Right Foot Tendon, Open Approach",
+            "document": "Embedded Systems"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Insertion of Pressure Sensor Monitoring Device into Pulmonary Trunk, Percutaneous Approach",
+            "document": "Teamwork"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Drainage of Left Upper Leg with Drainage Device, Open Approach",
+            "document": "Novell Netware"
+        },
+        {
+            "questions": "Once",
+            "answers": "Division of Right Femoral Shaft, Open Approach",
+            "document": "Capital IQ"
+        },
+        {
+            "questions": "Once",
+            "answers": "Reposition Left Knee Joint with External Fixation Device, Percutaneous Endoscopic Approach",
+            "document": "AKTA"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Bypass Stomach to Duodenum with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",
+            "document": "AKTA"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Middle Esophagus, Percutaneous Endoscopic Approach",
+            "document": "Urban Regeneration"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Destruction of Right Upper Extremity Lymphatic, Open Approach",
+            "document": "Axis"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Replacement of Left Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach",
+            "document": "Zend Server"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Removal of Autologous Tissue Substitute from Left Rib, Percutaneous Approach",
+            "document": "OLT"
+        },
+        {
+            "questions": "Once",
+            "answers": "Reposition Right Tibia with Ring External Fixation Device, Percutaneous Approach",
+            "document": "Hotel Booking"
+        },
+        {
+            "questions": "Often",
+            "answers": "Excision of Coccygeal Glomus, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "Design Thinking"
+        },
+        {
+            "questions": "Often",
+            "answers": "Insertion of Infusion Device into Left Popliteal Artery, Percutaneous Approach",
+            "document": "PWB"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Destruction of Cerebral Meninges, Percutaneous Endoscopic Approach",
+            "document": "Rhino"
+        },
+        {
+            "questions": "Never",
+            "answers": "Replacement of Left Ureter with Autologous Tissue Substitute, Via Natural or Artificial Opening",
+            "document": "Utilization"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Revision of Autologous Tissue Substitute in Epididymis and Spermatic Cord, Percutaneous Approach",
+            "document": "QinQ"
+        },
+        {
+            "questions": "Never",
+            "answers": "Excision of Large Intestine, Via Natural or Artificial Opening, Diagnostic",
+            "document": "Appraisals"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Resection of Right Iris, Percutaneous Approach",
+            "document": "Commercial Property Owners"
+        },
+        {
+            "questions": "Never",
+            "answers": "Voice Assessment using Voice Analysis Equipment",
+            "document": "VO"
+        },
+        {
+            "questions": "Once",
+            "answers": "Beam Radiation of Left Breast using Photons <1 MeV",
+            "document": "EOQ"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Dilation of Right Vertebral Artery, Bifurcation, Percutaneous Endoscopic Approach",
+            "document": "Data Mining"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Dilation of Esophagus with Intraluminal Device, Open Approach",
+            "document": "Scrum"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Supplement Cul-de-sac with Autologous Tissue Substitute, Open Approach",
+            "document": "Network Administration"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Dilation of Right Femoral Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach",
+            "document": "XP Professional"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Release Left Tibia, Percutaneous Endoscopic Approach",
+            "document": "Norton Utilities"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Supplement Scrotum with Nonautologous Tissue Substitute, Open Approach",
+            "document": "Beauty Industry"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Reposition Left External Carotid Artery, Open Approach",
+            "document": "Vulnerability Assessment"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Supplement Right Lower Leg Muscle with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+            "document": "Branding &amp; Identity"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Introduction of Analgesics, Hypnotics, Sedatives into Ear, External Approach",
+            "document": "AES"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Excision of Right Lacrimal Bone, Percutaneous Endoscopic Approach",
+            "document": "ISO/TS 16949"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Fusion of 8 or more Thoracic Vertebral Joints with Interbody Fusion Device, Anterior Approach, Anterior Column, Open Approach",
+            "document": "Special Education"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Restriction of Right Pulmonary Artery with Extraluminal Device, Open Approach",
+            "document": "Cloud Computing IaaS"
+        },
+        {
+            "questions": "Once",
+            "answers": "Repair Right Thyroid Artery, Percutaneous Approach",
+            "document": "LBO"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Open Approach",
+            "document": "OAM"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Occlusion of Common Bile Duct, Via Natural or Artificial Opening Endoscopic",
+            "document": "Escrow"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Revision of Infusion Device in Scrotum and Tunica Vaginalis, External Approach",
+            "document": "UART"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Fluoroscopy of Left Lower Extremity Arteries",
+            "document": "NMock"
+        },
+        {
+            "questions": "Never",
+            "answers": "Dilation of Right Temporal Artery, Percutaneous Approach",
+            "document": "VNA"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Release Right Upper Extremity Lymphatic, Percutaneous Endoscopic Approach",
+            "document": "LCL"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Dilation of Left Internal Carotid Artery with Four or More Drug-eluting Intraluminal Devices, Open Approach",
+            "document": "MVVM"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Resection of Ileum, Via Natural or Artificial Opening Endoscopic",
+            "document": "Myofascial Release"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Drainage of Left Upper Arm Muscle, Percutaneous Endoscopic Approach",
+            "document": "Voice Over"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Resection of Mesenteric Lymphatic, Open Approach",
+            "document": "CCDA"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Insertion of Infusion Device into Left Knee Region, Percutaneous Approach",
+            "document": "NTFS"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Repair Right Upper Lobe Bronchus, Percutaneous Endoscopic Approach",
+            "document": "CFML"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Excision of Thoracic Nerve, Open Approach, Diagnostic",
+            "document": "Ethnography"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Supplement Right Greater Saphenous Vein with Synthetic Substitute, Percutaneous Approach",
+            "document": "VMware Workstation"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Release Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",
+            "document": "Quantitative Finance"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Bypass Left Popliteal Artery to Popliteal Artery, Open Approach",
+            "document": "GTK+"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Removal of Autologous Tissue Substitute from Lower Tendon, Open Approach",
+            "document": "Kaspersky Antivirus"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Revision of Nonautologous Tissue Substitute in Nose, Percutaneous Endoscopic Approach",
+            "document": "Pyrotechnics"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Replacement of Left Sacroiliac Joint with Autologous Tissue Substitute, Open Approach",
+            "document": "Ion Exchange"
+        },
+        {
+            "questions": "Often",
+            "answers": "Removal of Infusion Device from Sacrococcygeal Joint, External Approach",
+            "document": "OmniPage"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Dilation of Splenic Artery with Three Drug-eluting Intraluminal Devices, Open Approach",
+            "document": "ICAO"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Magnetic Resonance Imaging (MRI) of Brachial Plexus",
+            "document": "FX Derivatives"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Jejunum, Percutaneous Approach",
+            "document": "Board of Directors"
+        },
+        {
+            "questions": "Never",
+            "answers": "Revision of Autologous Tissue Substitute in Right Breast, External Approach",
+            "document": "PY"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Excision of Right Ear Skin, External Approach, Diagnostic",
+            "document": "VHDL"
+        },
+        {
+            "questions": "Once",
+            "answers": "Replacement of Papillary Muscle with Nonautologous Tissue Substitute, Open Approach",
+            "document": "UV disinfection"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Drainage of Femoral Nerve, Open Approach, Diagnostic",
+            "document": "Weapons of Mass Destruction"
+        },
+        {
+            "questions": "Never",
+            "answers": "Extirpation of Matter from Pelvic Cavity, Open Approach",
+            "document": "Jerseys"
+        },
+        {
+            "questions": "Once",
+            "answers": "Computerized Tomography (CT Scan) of Spinal Cord using Low Osmolar Contrast",
+            "document": "IoC"
+        },
+        {
+            "questions": "Never",
+            "answers": "Replacement of Left Acetabulum with Synthetic Substitute, Open Approach",
+            "document": "PVD"
+        },
+        {
+            "questions": "Never",
+            "answers": "Plain Radiography of Left Humerus",
+            "document": "Lightroom"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Revision of Radioactive Element in Lower Jaw, Percutaneous Approach",
+            "document": "Telecom BSS"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Repair Left Pleura, Percutaneous Approach",
+            "document": "jBase"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Dilation of Left Hand Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach",
+            "document": "Urban Agriculture"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Dilation of Pancreatic Duct, Percutaneous Approach",
+            "document": "xPC Target"
+        },
+        {
+            "questions": "Once",
+            "answers": "Restriction of Upper Esophagus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",
+            "document": "Krav Maga"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Insertion of Intraluminal Device into Right Hand Vein, Percutaneous Endoscopic Approach",
+            "document": "Application Architecture"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Perineum Subcutaneous Tissue and Fascia with Drainage Device, Open Approach",
+            "document": "WBEM"
+        },
+        {
+            "questions": "Often",
+            "answers": "Removal of Infusion Device from Peritoneal Cavity, Percutaneous Approach",
+            "document": "PK"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Resection of Transverse Colon, Via Natural or Artificial Opening",
+            "document": "Psychology"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Release Lumbosacral Joint, Percutaneous Endoscopic Approach",
+            "document": "Twitter Marketing"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Supplement Left External Iliac Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "Pharmacy"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Drainage of Nasal Turbinate, Open Approach, Diagnostic",
+            "document": "FDA"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Revision of Nonautologous Tissue Substitute in Finger Nail, External Approach",
+            "document": "Izotope RX"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Replacement of Right Thumb Phalanx with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "RSA SecurID"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Left Lower Femur, Percutaneous Endoscopic Approach",
+            "document": "ETL"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Repair Male Reproductive System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",
+            "document": "Kindergarten"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Bypass Left Ureter to Bladder, Percutaneous Endoscopic Approach",
+            "document": "NYISO"
+        },
+        {
+            "questions": "Often",
+            "answers": "Excision of Right Hip Bursa and Ligament, Percutaneous Approach, Diagnostic",
+            "document": "NRA"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Drainage of Left External Ear with Drainage Device, Open Approach",
+            "document": "EH&amp;S Compliance"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Drainage of Right Upper Lobe Bronchus, Via Natural or Artificial Opening, Diagnostic",
+            "document": "Objection Handling"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Dilation of Middle Colic Artery, Bifurcation, Percutaneous Approach",
+            "document": "Market Risk"
+        },
+        {
+            "questions": "Often",
+            "answers": "Occlusion of Azygos Vein with Extraluminal Device, Open Approach",
+            "document": "Journal Entries"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Transfer Right Lower Leg Muscle, Percutaneous Endoscopic Approach",
+            "document": "Therapists"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Supplement Left Glenoid Cavity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+            "document": "Higher Education"
+        },
+        {
+            "questions": "Often",
+            "answers": "Dilation of Right Lacrimal Duct with Intraluminal Device, Via Natural or Artificial Opening",
+            "document": "Driving License"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Supplement Portal Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "Cyber-security"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Resection of Left Radius, Open Approach",
+            "document": "QR"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Osteopathic Treatment of Thoracic Region using General Mobilization",
+            "document": "Maritime Operations"
+        },
+        {
+            "questions": "Never",
+            "answers": "Extraction of Lumbar Sympathetic Nerve, Open Approach",
+            "document": "IDL"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Release Pancreas, Percutaneous Endoscopic Approach",
+            "document": "Bloomberg Terminal"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Supplement Portal Vein with Synthetic Substitute, Open Approach",
+            "document": "RTL Coding"
+        },
+        {
+            "questions": "Often",
+            "answers": "Alteration of Left External Ear with Nonautologous Tissue Substitute, Open Approach",
+            "document": "Lecturing"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Bypass Cerebral Ventricle to Bone Marrow with Nonautologous Tissue Substitute, Open Approach",
+            "document": "Lightroom"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Removal of Synthetic Substitute from Right Lower Femur, Open Approach",
+            "document": "Surgery"
+        },
+        {
+            "questions": "Once",
+            "answers": "Drainage of Nasopharynx, Open Approach",
+            "document": "Pro II"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Insertion of External Fixation Device into Left Mandible, Open Approach",
+            "document": "Kontakt"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Supplement Left Rib with Autologous Tissue Substitute, Percutaneous Approach",
+            "document": "Mortgage Underwriting"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Excision of Left Peroneal Artery, Open Approach, Diagnostic",
+            "document": "MRI Software"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Revision of Monitoring Device in Pancreas, Open Approach",
+            "document": "Intergovernmental Affairs"
+        },
+        {
+            "questions": "Often",
+            "answers": "Insertion of Radioactive Element into Vagina, Via Natural or Artificial Opening Endoscopic",
+            "document": "RCCA"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Division of Right Fibula, Percutaneous Approach",
+            "document": "Clerical Skills"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Excision of Left Testis, Percutaneous Approach, Diagnostic",
+            "document": "Hotel Booking"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Excision of Splenic Vein, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "GPIB"
+        },
+        {
+            "questions": "Never",
+            "answers": "Bypass Bilateral Vas Deferens to Right Vas Deferens with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+            "document": "SMSTS"
+        },
+        {
+            "questions": "Never",
+            "answers": "Dilation of Left Peroneal Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach",
+            "document": "Pensions"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Transfusion of Allogeneic Related Hematopoietic Stem Cells into Peripheral Vein, Open Approach",
+            "document": "First Time Home Sellers"
+        },
+        {
+            "questions": "Often",
+            "answers": "Drainage of Right Axillary Lymphatic, Percutaneous Approach",
+            "document": "Dell KACE"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Excision of Cerebral Ventricle, Percutaneous Endoscopic Approach",
+            "document": "Banquets"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Drainage of Right Upper Lung Lobe with Drainage Device, Open Approach",
+            "document": "Record Keeping"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Dilation of Right External Carotid Artery with Three Intraluminal Devices, Percutaneous Approach",
+            "document": "Dreamweaver"
+        },
+        {
+            "questions": "Once",
+            "answers": "Measurement of Cardiac Electrical Activity, External Approach",
+            "document": "IA32"
+        },
+        {
+            "questions": "Never",
+            "answers": "Insertion of Internal Fixation Device into Left Acromioclavicular Joint, Percutaneous Endoscopic Approach",
+            "document": "Leadership"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Supplement Right Atrium with Autologous Tissue Substitute, Open Approach",
+            "document": "Yelp"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Repair Left Neck Lymphatic, Percutaneous Endoscopic Approach",
+            "document": "Akamai"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Supplement Sacral Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+            "document": "LGBT Rights"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Removal of Drainage Device from Left Pleural Cavity, Percutaneous Endoscopic Approach",
+            "document": "High Voltage"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Revision of Internal Fixation Device in Left Clavicle, Percutaneous Endoscopic Approach",
+            "document": "OxMetrics"
+        },
+        {
+            "questions": "Never",
+            "answers": "Drainage of Right Foot, Open Approach, Diagnostic",
+            "document": "UEFI"
+        },
+        {
+            "questions": "Once",
+            "answers": "Chiropractic Manipulation of Cervical Region, Long and Short Lever Specific Contact",
+            "document": "Gas"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Revision of Spacer in Right Tarsal Joint, Percutaneous Approach",
+            "document": "SBIR"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Removal of Drainage Device from Left Lung, Percutaneous Endoscopic Approach",
+            "document": "MSA"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Excision of Left Lobe Liver, Percutaneous Endoscopic Approach, Diagnostic",
+            "document": "Invoicing"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Repair Vagus Nerve, Percutaneous Approach",
+            "document": "Team Leadership"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Supplement Right Upper Leg Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",
+            "document": "PgSQL"
+        },
+        {
+            "questions": "Often",
+            "answers": "Bypass Right Ureter to Colocutaneous with Nonautologous Tissue Substitute, Open Approach",
+            "document": "UCM"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Resection of Right Humeral Head, Open Approach",
+            "document": "Cultural Awareness"
+        },
+        {
+            "questions": "Daily",
+            "answers": "Excision of Left Patella, Open Approach",
+            "document": "ITIL"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Destruction of Right Main Bronchus, Via Natural or Artificial Opening",
+            "document": "Affirmative Action"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Inspection of Right Finger Phalangeal Joint, Percutaneous Endoscopic Approach",
+            "document": "Time Series Analysis"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Transfer Oculomotor Nerve to Olfactory Nerve, Open Approach",
+            "document": "Wholesale"
+        },
+        {
+            "questions": "Weekly",
+            "answers": "Reattachment of Descending Colon, Percutaneous Endoscopic Approach",
+            "document": "FCC"
+        },
+        {
+            "questions": "Seldom",
+            "answers": "Dilation of Right Foot Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach",
+            "document": "VMware Fusion"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Bypass Right Femoral Artery to Posterior Tibial Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",
+            "document": "Apache Pig"
+        },
+        {
+            "questions": "Often",
+            "answers": "Bypass Cystic Duct to Right Hepatic Duct with Intraluminal Device, Percutaneous Endoscopic Approach",
+            "document": "WPC"
+        },
+        {
+            "questions": "Monthly",
+            "answers": "Replacement of Right Hand Skin with Synthetic Substitute, Full Thickness, External Approach",
+            "document": "PXI"
+        },
+        {
+            "questions": "Yearly",
+            "answers": "Occlusion of Intracranial Vein with Extraluminal Device, Percutaneous Approach",
+            "document": "Aesthetics"
+        },
+        {
+            "questions": "Never",
+            "answers": "Revision of Infusion Device in Left Hip Joint, Open Approach",
+            "document": "Gmail"
+        }
+    ]
+}
